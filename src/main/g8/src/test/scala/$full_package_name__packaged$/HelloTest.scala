@@ -1,4 +1,4 @@
-package $full_package_name$git
+package $full_package_name$
 
 import be.dataminded.lighthouse.testing.SparkFunSuite
 
