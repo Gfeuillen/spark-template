@@ -1,4 +1,9 @@
-A [Giter8][g8] template for ...!
+A [Giter8][g8] template for spark projects!
+Includes 
+
+* Spark dependencies
+* Spark test dependencies
+* A spark test example
 
 Template license
 ----------------
