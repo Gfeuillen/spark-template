@@ -5,10 +5,13 @@ Includes
 * Spark test dependencies
 * A spark test example
 
+To use it simply type
+
+```sbt new Gfeuillen/sparkTestTemplate``` 
+
 Template license
 ----------------
 Written in 2018 by Gauthier Feuillen feuillen.gauthier@gmail.com
-[other author/contributor lines as appropriate]
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
