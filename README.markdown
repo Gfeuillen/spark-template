@@ -7,7 +7,7 @@ Includes
 
 To use it simply type
 
-```sbt new Gfeuillen/sparkTestTemplate``` 
+```sbt new Gfeuillen/sparkTestTemplate.g8``` 
 
 Template license
 ----------------
